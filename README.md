@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bytedance
+- 🔭 I’m currently working in Bytedance
 - 🌱 I’m currently learning FE & Go
 - 👯 I’m looking to collaborate on something creative.
 - 🤔 I’m looking for help with ...
