@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-
-![image](https://github.com/Makoq/Makoq/blob/main/bkg.jpeg#pic_center)
+<div align="center">
+<img src=https://github.com/Makoq/Makoq/blob/main/bkg.jpeg />
+</div>
